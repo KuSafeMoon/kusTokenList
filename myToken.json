@@ -1,0 +1,11 @@
+{
+    "name": "KuSafeMoon",
+    "website": "https://kusafemoon.com",
+    "description": "KuSafeMoon is the first frictionless yield redistribution token on KCC",
+    "explorer": "https://explorer.kcc.io/en/token/0x4abc52243fa1e7bfa3102cb89739f2c3d435bf85",
+    "type": "KRC20",
+    "symbol": "SAFEMOON",
+    "decimals": 9,
+    "status": "active",
+    "address": "0x4ABC52243fA1e7bFa3102CB89739f2C3D435bf85"    
+}
